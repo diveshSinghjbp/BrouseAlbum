@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "429F91E5-F09E-4D11-B5E8-386A43E2D802"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0244BCB6-31A8-4834-B5FE-74E33B404316"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/Services/NetworkService/AlbumService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getAlbumData(urlStr:then:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3AB9211-B0F2-4750-9833-A84E3450061C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/ViewModels/AlbumListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchAlbumList(delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3AB9211-B0F2-4750-9833-A84E3450061C - 23e3e9267aa31147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AlbumsList.AlbumListViewModel.fetchAlbumList(delegate: AlbumsList.AlbumUIProtocol) -&gt; ()"
+                  moduleName = "AlbumsList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optlptp335/Downloads/cardinalhealthiOS%20App/AlbumsList/AlbumsList/ViewModels/AlbumListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "C3AB9211-B0F2-4750-9833-A84E3450061C - 1a6787740b02ec80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;AlbumsList.AlbumDataModel, Swift.Error&gt;) -&gt; () in AlbumsList.AlbumListViewModel.fetchAlbumList(delegate: AlbumsList.AlbumUIProtocol) -&gt; ()"
+                  moduleName = "AlbumsList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optlptp335/Downloads/cardinalhealthiOS%20App/AlbumsList/AlbumsList/ViewModels/AlbumListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0890E6D-F69D-444E-A013-B6724A4860C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/view/AlbumsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "AlbumsViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "337A116E-85E0-4939-BBA7-543169907B4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/ViewModels/AlbumListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchAlbumList(delegate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "337A116E-85E0-4939-BBA7-543169907B4A - 1a6787740b02ecc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;AlbumsList.AlbumDataModel, Swift.Error&gt;) -&gt; () in AlbumsList.AlbumListViewModel.fetchAlbumList(delegate: AlbumsList.AlbumUIProtocol) -&gt; ()"
+                  moduleName = "AlbumsList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optlptp335/Downloads/cardinalhealthiOS%20App/AlbumsList/AlbumsList/ViewModels/AlbumListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "337">
+               </Location>
+               <Location
+                  uuid = "337A116E-85E0-4939-BBA7-543169907B4A - 1a6787740b02ecc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;AlbumsList.AlbumDataModel, Swift.Error&gt;) -&gt; () in AlbumsList.AlbumListViewModel.fetchAlbumList(delegate: AlbumsList.AlbumUIProtocol) -&gt; ()"
+                  moduleName = "AlbumsList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optlptp335/Downloads/cardinalhealthiOS%20App/AlbumsList/AlbumsList/ViewModels/AlbumListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAD2674F-F95E-4A00-93FC-DD0B8ADAD284"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/Services/NetworkService/AlbumService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getAlbumData(urlStr:then:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4773BB26-D0AF-4901-96A9-B20045DE201E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/Services/NetworkService/AlbumService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getAlbumData(urlStr:then:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4773BB26-D0AF-4901-96A9-B20045DE201E - b30082a8f6c17858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AlbumsList.AlbumService.getAlbumData(urlStr: Swift.String, then: (Swift.Result&lt;AlbumsList.AlbumDataModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AlbumsList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optlptp335/Downloads/cardinalhealthiOS%20App/AlbumsList/AlbumsList/Services/NetworkService/AlbumService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "895">
+               </Location>
+               <Location
+                  uuid = "4773BB26-D0AF-4901-96A9-B20045DE201E - 2fabdad0cbd255ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;AlbumsList.AlbumInfo&gt;, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AlbumsList.AlbumService.getAlbumData(urlStr: Swift.String, then: (Swift.Result&lt;AlbumsList.AlbumDataModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AlbumsList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/optlptp335/Downloads/cardinalhealthiOS%20App/AlbumsList/AlbumsList/Services/NetworkService/AlbumService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "145">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8836B70F-79E0-4C0A-9295-3AA1A72CAE3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/Services/NetworkService/AlbumService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "getAlbumData(urlStr:then:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF2AE358-9EDF-4B79-983A-1684F1F3C551"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/ViewModels/AlbumListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchAlbumList(delegate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5836EC79-A17C-49C3-8597-813566F8D924"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/view/AlbumsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "isSearchBarEmpty"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8971584E-80B0-4F94-BD69-DFB038282CD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlbumsList/view/AlbumsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
